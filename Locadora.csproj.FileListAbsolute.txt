@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\LOCADORA\Locadora\Locadora\bin\Debug\Locadora.exe.config
+C:\Users\Admin\Desktop\LOCADORA\Locadora\Locadora\bin\Debug\Locadora.exe
+C:\Users\Admin\Desktop\LOCADORA\Locadora\Locadora\bin\Debug\Locadora.pdb
+C:\Users\Admin\Desktop\LOCADORA\Locadora\Locadora\obj\Debug\Locadora.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\LOCADORA\Locadora\Locadora\obj\Debug\Locadora.Form1.resources
+C:\Users\Admin\Desktop\LOCADORA\Locadora\Locadora\obj\Debug\Locadora.Properties.Resources.resources
+C:\Users\Admin\Desktop\LOCADORA\Locadora\Locadora\obj\Debug\Locadora.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\LOCADORA\Locadora\Locadora\obj\Debug\Locadora.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LOCADORA\Locadora\Locadora\obj\Debug\Locadora.exe
+C:\Users\Admin\Desktop\LOCADORA\Locadora\Locadora\obj\Debug\Locadora.pdb
+C:\Users\Admin\Desktop\LOCADORA\Locadora\Locadora\obj\Debug\Locadora.Form2.resources
